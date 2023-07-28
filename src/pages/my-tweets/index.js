@@ -6,7 +6,6 @@ import { AppContext } from '@/hooks/useAppProvider';
 import Menu from '@/components/layout/menu/Menu';
 import ContentBox from '@/components/ContentBox';
 import Header from '@/components/Header';
-import PostBox from '@/components/PostBox';
 import { ContainerApp } from '@/styles/components/layout';
 
 

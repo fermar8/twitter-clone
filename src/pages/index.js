@@ -20,7 +20,7 @@ const MyForm = () => {
 
   return (
     <FormContainer onSubmit={handleSubmit}>
-      <h1 style={{ width: '372px', fontSize: '24px', textAlign: 'center', marginBottom: '4rem' }}>Welcome to Tweetter</h1>
+      <h1 style={{ width: '372px', fontSize: '24px', textAlign: 'center', marginBottom: '4rem' }}>Welcome to Twitter</h1>
       <Label>
         Username:
       </Label>
